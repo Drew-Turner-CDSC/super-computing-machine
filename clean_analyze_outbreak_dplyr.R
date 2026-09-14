@@ -10,6 +10,8 @@
   library(odbc)
   library(zoo)
 
+# This is an example change
+
 config <- yaml::read_yaml("config.yaml")
 
 # ---- Read data ----
